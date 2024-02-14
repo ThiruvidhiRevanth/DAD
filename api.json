@@ -1,0 +1,34 @@
+[
+    {
+        "userId": 1,
+        "id": 1,
+        "title": "UNIT I–INTRODUCTION",
+        "body": "Computer Security Concepts, the OSI Security Architecture, Security Attacks, Security Mechanism, Standards.Malicious Software: Types of Malicious Software, Viruses, Worms, Distributed Denial ofService Attacks."
+    },
+    {
+        "userId": 2,
+        "id": 2,
+        "title": "UNIT II – SECURITY AT TRANSPORT LAYER: SSL & TLS",
+        "body":"Web Security Consideration, Secure Socket Layer and Transport Layer Security,Transport Layer Security, HTTPS, Secure Shell.Wireless Network Security: IEEE 802.11 Wireless LAN Overview, IEEE 802.11i LANSecurity, Wireless Application Protocol Overview, Wireless Transport Layer Security, WAP end-to-end Security"
+
+    },
+    {
+        "userId": 3,
+        "id": 3,
+        "title": "UNIT III – SECURITY AT APPLICATION LAYER: PGP AND S/MIME",
+        "body":"Pretty Good Privacy, S/MIME, Domain keys Identified MailIP Security: IP Security Overview, IP Security Policy, IP Security Architecture,Encapsulating"
+
+    },
+    {
+        "userId": 4,
+        "id": 4,
+        "title": "UNIT IV– INTRUDERS AND FIREWALLS",
+        "body":"Intrusion Detection System: Intruders, Intrusion Detection, Password Management.Firewalls: The Need for Firewalls, Firewall Characteristics, Types of Firewalls, FirewallBasing, Firewall location and configuration."
+    },
+    {
+        "userId": 5,
+        "id": 5,
+        "title": "UNIT V- PRIVACY",
+        "body":"Evade Traffic analysis, Tunnel SSH through Tor, Encrypt you file seamlessly, Guard against Phishing, Use the web with fewer passwords, Encrypt your E-mail withThunderbird, Encrypt you E-mail in Mac OS X"
+    }
+]
