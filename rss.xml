@@ -1,0 +1,16 @@
+<rss version="2.0">
+        <channel>
+          <item>
+            <title><![CDATA[Sample Title 1]]></title>
+            <description><![CDATA[Sample Description 1]]></description>
+          </item>
+          <item>
+            <title><![CDATA[Sample Title 2]]></title>
+            <description><![CDATA[Sample Description 2]]></description>
+          </item>
+          <item>
+            <title><![CDATA[Sample Title 3]]></title>
+            <description><![CDATA[Sample Description 3]]></description>
+          </item>
+        </channel>
+      </rss>
